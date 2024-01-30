@@ -1,12 +1,11 @@
 {
-    "extends": [
-      "stylelint-config-standard",
-      "stylelint-config-rational-order"
-    ],
-    "plugins": [
-      "stylelint-order"
-    ],
-    "rules": {
-      "selector-class-pattern": null
-    }
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-standard-scss",
+    "stylelint-config-rational-order"
+  ],
+  "plugins": ["stylelint-scss", "stylelint-order"],
+  "rules": {
+    "selector-class-pattern": null
   }
+}
