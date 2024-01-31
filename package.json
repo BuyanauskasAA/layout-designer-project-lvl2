@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "htmlhint": "^1.1.4",
+    "sass": "^1.70.0",
     "stylelint": "^16.1.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^36.0.0",
