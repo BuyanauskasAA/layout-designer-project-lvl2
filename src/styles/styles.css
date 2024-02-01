@@ -8,6 +8,11 @@
   font-family: Roboto;
   src: url("../../assets/fonts/Roboto-Bold.ttf");
 }
+.page {
+  color: #cacaca;
+  background: #08020d;
+}
+
 .title {
   margin: 0;
   font-weight: bold;
