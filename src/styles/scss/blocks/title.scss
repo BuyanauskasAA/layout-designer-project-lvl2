@@ -1,0 +1,15 @@
+.title {
+  margin: 0;
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+  line-height: 1.5;
+  text-transform: uppercase;
+
+  &_type_main {
+    font-size: 60xp;
+  }
+
+  &_type_lg {
+    font-size: 38px;
+  }
+}
