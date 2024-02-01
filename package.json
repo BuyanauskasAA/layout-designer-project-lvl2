@@ -10,6 +10,8 @@
     "browser-sync": "^3.0.2",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
     "htmlhint": "^1.1.4",
     "pug": "^3.0.2",
     "sass": "^1.70.0",
