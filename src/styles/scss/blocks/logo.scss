@@ -1,0 +1,20 @@
+.logo {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+
+  &__img {
+    display: block;
+    width: 24px;
+    height: 24px;
+  }
+
+  &__title {
+    margin: 0;
+    font-weight: bold;
+    font-size: 11px;
+    font-family: Roboto, sans-serif;
+    line-height: 1.5;
+    text-transform: uppercase;
+  }
+}
