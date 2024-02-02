@@ -9,6 +9,7 @@
   src: url("../../assets/fonts/Roboto-Bold.ttf");
 }
 .page {
+  margin: 0;
   color: #cacaca;
   background: #08020d;
 }
