@@ -1,0 +1,13 @@
+-
+  const links = [
+    'Главная',
+    'Каталог',
+    'Исполнители',
+    'Контакты',
+  ];
+
+nav.nav
+  ul.nav__wrapper
+    each link in links
+      li.nav__item
+        a.nav__link(href='#') #{link}
