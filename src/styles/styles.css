@@ -21,8 +21,18 @@
   text-transform: uppercase;
 }
 .title_type_main {
-  font-size: 60xp;
+  font-size: 30px;
+}
+@media (min-width >= 1200px) {
+  .title_type_main {
+    font-size: 60px;
+  }
 }
 .title_type_lg {
-  font-size: 38px;
+  font-size: 18px;
+}
+@media (min-width >= 1200px) {
+  .title_type_lg {
+    font-size: 38px;
+  }
 }
