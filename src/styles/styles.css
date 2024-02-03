@@ -38,6 +38,17 @@
   }
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__wrapper {
+  display: flex;
+  gap: 90px;
+  align-items: center;
+}
+
 .logo {
   display: flex;
   gap: 16px;
@@ -58,7 +69,6 @@
 }
 
 .nav {
-  margin-left: 90px;
   box-sizing: border-box;
 }
 .nav__wrapper {
