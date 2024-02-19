@@ -110,3 +110,12 @@
   line-height: 15.29px;
   text-transform: uppercase;
 }
+
+.banner {
+  position: relative;
+}
+
+.banner__wrapper {
+  width: 1200px;
+  margin: 25px auto 0;
+}
